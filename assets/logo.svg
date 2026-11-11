@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 70" width="380" height="70" fill="none">
+  <!-- Three Fold Geometric Icon -->
+  <g id="mark">
+    <!-- Fold 1 -->
+    <polygon points="10,48 25,16 37,16 22,48" fill="#86198f" />
+    <!-- Fold 2 -->
+    <polygon points="26,48 41,16 53,16 38,48" fill="#c026d3" />
+    <!-- Fold 3 -->
+    <polygon points="42,48 57,16 69,16 54,48" fill="#0f172a" />
+  </g>
+  <!-- Typography -->
+  <text x="82" y="42" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="28" font-weight="800" fill="#0f172a" letter-spacing="-0.5">Three Fold</text>
+  <text x="245" y="42" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="28" font-weight="500" fill="#86198f" letter-spacing="-0.5">Studio</text>
+</svg>
+
